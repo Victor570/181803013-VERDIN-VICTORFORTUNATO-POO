@@ -20,7 +20,7 @@
             }
         </style>
     </head>
-    <body>
+    <body  bgcolor="33FFFC">
     <center>
         <h1>Hospital!</h1>
         <hr>
